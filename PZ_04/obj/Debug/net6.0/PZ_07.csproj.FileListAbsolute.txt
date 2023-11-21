@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\bin\Debug\net6.0\PZ_07.exe
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\bin\Debug\net6.0\PZ_07.deps.json
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\bin\Debug\net6.0\PZ_07.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\bin\Debug\net6.0\PZ_07.dll
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\bin\Debug\net6.0\PZ_07.pdb
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\obj\Debug\net6.0\PZ_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\obj\Debug\net6.0\PZ_07.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\obj\Debug\net6.0\PZ_07.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\obj\Debug\net6.0\PZ_07.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\obj\Debug\net6.0\PZ_07.dll
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\obj\Debug\net6.0\refint\PZ_07.dll
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\obj\Debug\net6.0\PZ_07.pdb
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\obj\Debug\net6.0\PZ_07.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Mtveev_2pk2\PZ_07\obj\Debug\net6.0\ref\PZ_07.dll
