@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\bin\Debug\net6.0\PZ_06.exe
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\bin\Debug\net6.0\PZ_06.deps.json
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\bin\Debug\net6.0\PZ_06.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\bin\Debug\net6.0\PZ_06.dll
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\bin\Debug\net6.0\PZ_06.pdb
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\obj\Debug\net6.0\PZ_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\obj\Debug\net6.0\PZ_06.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\obj\Debug\net6.0\PZ_06.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\obj\Debug\net6.0\PZ_06.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\obj\Debug\net6.0\PZ_06.dll
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\obj\Debug\net6.0\refint\PZ_06.dll
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\obj\Debug\net6.0\PZ_06.pdb
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\obj\Debug\net6.0\PZ_06.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Matveev2pk2\PZ_06\obj\Debug\net6.0\ref\PZ_06.dll
