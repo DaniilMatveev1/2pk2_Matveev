@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\PZ_13\bin\Debug\net6.0\PZ_13.exe
+C:\Users\ADMIN\source\repos\PZ_13\bin\Debug\net6.0\PZ_13.deps.json
+C:\Users\ADMIN\source\repos\PZ_13\bin\Debug\net6.0\PZ_13.runtimeconfig.json
+C:\Users\ADMIN\source\repos\PZ_13\bin\Debug\net6.0\PZ_13.dll
+C:\Users\ADMIN\source\repos\PZ_13\bin\Debug\net6.0\PZ_13.pdb
+C:\Users\ADMIN\source\repos\PZ_13\obj\Debug\net6.0\PZ_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\PZ_13\obj\Debug\net6.0\PZ_13.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\PZ_13\obj\Debug\net6.0\PZ_13.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\PZ_13\obj\Debug\net6.0\PZ_13.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\PZ_13\obj\Debug\net6.0\PZ_13.dll
+C:\Users\ADMIN\source\repos\PZ_13\obj\Debug\net6.0\refint\PZ_13.dll
+C:\Users\ADMIN\source\repos\PZ_13\obj\Debug\net6.0\PZ_13.pdb
+C:\Users\ADMIN\source\repos\PZ_13\obj\Debug\net6.0\PZ_13.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\PZ_13\obj\Debug\net6.0\ref\PZ_13.dll
