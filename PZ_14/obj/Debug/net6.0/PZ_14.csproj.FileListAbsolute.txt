@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\bin\Debug\net6.0\PZ_14.exe
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\bin\Debug\net6.0\PZ_14.deps.json
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\bin\Debug\net6.0\PZ_14.runtimeconfig.json
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\bin\Debug\net6.0\PZ_14.dll
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\bin\Debug\net6.0\PZ_14.pdb
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\obj\Debug\net6.0\PZ_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\obj\Debug\net6.0\PZ_14.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\obj\Debug\net6.0\PZ_14.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\obj\Debug\net6.0\PZ_14.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\obj\Debug\net6.0\PZ_14.dll
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\obj\Debug\net6.0\refint\PZ_14.dll
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\obj\Debug\net6.0\PZ_14.pdb
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\obj\Debug\net6.0\PZ_14.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\PZ_14\PZ_14\obj\Debug\net6.0\ref\PZ_14.dll
