@@ -1,0 +1,14 @@
+C:\Users\macda\source\repos\pz_18\pz_18\bin\Debug\net8.0\pz_18.exe
+C:\Users\macda\source\repos\pz_18\pz_18\bin\Debug\net8.0\pz_18.deps.json
+C:\Users\macda\source\repos\pz_18\pz_18\bin\Debug\net8.0\pz_18.runtimeconfig.json
+C:\Users\macda\source\repos\pz_18\pz_18\bin\Debug\net8.0\pz_18.dll
+C:\Users\macda\source\repos\pz_18\pz_18\bin\Debug\net8.0\pz_18.pdb
+C:\Users\macda\source\repos\pz_18\pz_18\obj\Debug\net8.0\pz_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macda\source\repos\pz_18\pz_18\obj\Debug\net8.0\pz_18.AssemblyInfoInputs.cache
+C:\Users\macda\source\repos\pz_18\pz_18\obj\Debug\net8.0\pz_18.AssemblyInfo.cs
+C:\Users\macda\source\repos\pz_18\pz_18\obj\Debug\net8.0\pz_18.csproj.CoreCompileInputs.cache
+C:\Users\macda\source\repos\pz_18\pz_18\obj\Debug\net8.0\pz_18.dll
+C:\Users\macda\source\repos\pz_18\pz_18\obj\Debug\net8.0\refint\pz_18.dll
+C:\Users\macda\source\repos\pz_18\pz_18\obj\Debug\net8.0\pz_18.pdb
+C:\Users\macda\source\repos\pz_18\pz_18\obj\Debug\net8.0\pz_18.genruntimeconfig.cache
+C:\Users\macda\source\repos\pz_18\pz_18\obj\Debug\net8.0\ref\pz_18.dll
